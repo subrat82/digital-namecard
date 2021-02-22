@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Padhy;Sasmita;;;
-FN: Sasmita Padhy
+N:Mohapatra;Subrata;;;
+FN: Subrata Mohapatra
 ORG:BitOrions Inc;
-TITLE:Senior Devops Engineer
-EMAIL;type=INTERNET;type=WORK;type=pref:sp335001@gmail.com
-TEL;type=WORK;type=VOICE:1234567890
+TITLE:Senior Devops Architect
+EMAIL;type=INTERNET;type=WORK;type=pref:sububiker@gmail.com
+TEL;type=WORK;type=VOICE:6026518642
 item1.ADR;type=WORK;type=pref:;;4200 Bay St;;;Fremont , CA, 94538;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:bitorions.com
